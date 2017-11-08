@@ -3,4 +3,3 @@ Here is some drink:
 	Rum
 	Orange juice
 	More orange juice
-	Cola
