@@ -2,3 +2,5 @@ Here is some drink:
 	Lemonade
 	Rum
 	Orange juice
+	More orange juice
+	Cola
